@@ -98,7 +98,7 @@ const Dashboard = () => {
 					>
 						<div>
 							<div className='flex items-center gap-2'>
-								<span>{window?.location.origin}/</span>
+								<span>/</span>
 								<Input
 									{...register('username')}
 									placeholder='username'
