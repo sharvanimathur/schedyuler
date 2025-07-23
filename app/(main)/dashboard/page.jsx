@@ -1,5 +1,4 @@
 'use client';
-
 import React, { useEffect } from 'react';
 import { useUser } from '@clerk/nextjs';
 import { useForm } from 'react-hook-form';
